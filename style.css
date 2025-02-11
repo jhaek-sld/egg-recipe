@@ -1,0 +1,123 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2e4d8;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.max-w-2xl {
+    max-width: 42rem;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.shadow-md {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.p-6 {
+    padding: 1.5rem;
+}
+
+.mt-10 {
+    margin-top: 2.5rem;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.mb-6 {
+    margin-bottom: 1.5rem;
+}
+
+.text-3xl {
+    font-size: 1.875rem;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.text-gray-700 {
+    color: #4a5568;
+}
+
+.text-xl {
+    font-size: 1.25rem;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.bg-purple-100 {
+    background-color: #ede4f7;
+}
+
+.p-4 {
+    padding: 1rem;
+}
+
+.list-disc {
+    list-style-type: disc;
+}
+
+.list-inside {
+    list-style-position: inside;
+}
+
+.list-decimal {
+    list-style-type: decimal;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+th, td {
+    padding: 0.5rem;
+}
+
+th {
+    font-weight: 700;
+}
+
+@media (max-width: 768px) {
+    .p-6 {
+        padding: 1rem;
+    }
+
+    .text-3xl {
+        font-size: 1.5rem;
+    }
+
+    .text-2xl {
+        font-size: 1.25rem;
+    }
+
+    .text-xl {
+        font-size: 1rem;
+    }
+}
